@@ -32,7 +32,7 @@ const equilibriumPointFinder = (array) => {
   return -1;
 };
 
-let inputArray = [1, 2, 1, 0, 0, 0, 0];
+let inputArray = [5,5,2,6,4];
 let result = equilibriumPointFinder(inputArray);
 console.log("<------ start ------>");
 console.log(
